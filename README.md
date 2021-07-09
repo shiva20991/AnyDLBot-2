@@ -12,8 +12,10 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easy Way
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)]()
+<a href="https://heroku.com/deploy?template=https://github.com/shiva20991/AnyDLBOT-2">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 #### The Hard Way
 
 ```sh
